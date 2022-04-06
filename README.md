@@ -1,0 +1,4 @@
+- 👋 Hi, I’m shreeramdas
+- 👀 I’m interested in money
+- 🌱 I’m currently learning c++
+- 📫 How to reach me Shreeramdas039@gmail.com
